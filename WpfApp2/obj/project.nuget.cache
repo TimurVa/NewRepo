@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "4z0iKyEu1KDFWA33yv0P9rMcGDepDOmUiK9/wcQHINcZGCmwDgB0uOc7zgd2BMCDRabS82e91U4nE+bGIRbDiA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\TValiev\\source\\repos\\NewRepo-master\\NewRepo-master\\WpfApp2\\WpfApp2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\TValiev\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\TValiev\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\TValiev\\.nuget\\packages\\prism.core\\7.2.0.1422\\prism.core.7.2.0.1422.nupkg.sha512",
+    "C:\\Users\\TValiev\\.nuget\\packages\\system.drawing.common\\4.7.0\\system.drawing.common.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
